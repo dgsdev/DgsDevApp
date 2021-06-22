@@ -15,9 +15,9 @@ namespace DgsDevApp
 
             Console.WriteLine(x.ToString("F4", CultureInfo.InvariantCulture));
 
-            Console.WriteLine(" \n DGSDEV 2021\n");
+            Console.WriteLine(" \n DGSDEV .NEt 2021\n");
 
-            Console.WriteLine(" Hello World!\n");
+            Console.WriteLine(" Hello New World!\n");
 
             Console.WriteLine(" Aprendendo: C#, .NET 5, Api Rest com Asp.NET Core 5, Entity FrameWork Core 5 e Blazor\n");
 
